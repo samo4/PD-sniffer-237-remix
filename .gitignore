@@ -21,3 +21,6 @@ _autosave-*
 # *.csv
 
 .~lock*
+
+hw/FreshTwinkie-backups/
+
